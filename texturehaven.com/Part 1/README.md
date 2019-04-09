@@ -1,6 +1,8 @@
 ### Magnet link
 `magnet:?xt=urn:btih:33394ab0a2b29c5581d201f4d20d44434f5c5395&dn=Textures%20from%20texturehaven.com%20-%20Part%201&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce`  
   
+### [Torrent file download](https://github.com/Kimbatt/cc0-textures/raw/master/texturehaven.com/Part%201/Textures%20from%20texturehaven.com%20-%20Part%201.torrent)  
+  
 ### List of textures:
   
 Bark Brown 01 [8K]  

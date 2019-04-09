@@ -1,6 +1,8 @@
 ### Magnet link
 `magnet:?xt=urn:btih:8953fa1cf5ce84907cac959934e2c7abbb7d7a44&dn=Textures%20from%20cc0textures.com%20-%20Part%201&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969`  
   
+### [Torrent file download](https://github.com/Kimbatt/cc0-textures/raw/master/cc0textures.com/Part%201/Textures%20from%20cc0textures.com%20-%20Part%201.torrent)  
+  
 ### List of textures:
 
 Asphalt 01 [8K]  

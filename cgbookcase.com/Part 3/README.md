@@ -1,6 +1,8 @@
 ### Magnet link
 `magnet:?xt=urn:btih:c205cf020ee6e3330dc6444a9bba815c393e2da9&dn=Textures%20from%20cgbookcase.com%20-%20Part%203&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce`  
   
+### [Torrent file download](https://github.com/Kimbatt/cc0-textures/raw/master/cgbookcase.com/Part%203/Textures%20from%20cgbookcase.com%20-%20Part%203.torrent)  
+  
 ### List of textures:
   
 Arrows road marking 01 [4K]  
