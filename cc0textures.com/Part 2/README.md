@@ -1,5 +1,5 @@
 ### Magnet link
-`magnet:?xt=urn:btih:7a8c71d988bc4e7243d6bdeb6a2e5ea6b3b77ee3&dn=Textures%20from%20cc0textures.com%20-%20Part%202&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969&tr=udp%3a%2f%2fexodus.desync.com%3a6969`  
+`magnet:?xt=urn:btih:7a8c71d988bc4e7243d6bdeb6a2e5ea6b3b77ee3&dn=Textures%20from%20cc0textures.com%20-%20Part%202&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce`  
   
 ### [Torrent file download](https://github.com/Kimbatt/cc0-textures/raw/master/cc0textures.com/Part%202/Textures%20from%20cc0textures.com%20-%20Part%202.torrent)  
   
