@@ -1,3 +1,5 @@
+### Size: 25.5 GB
+  
 ### Magnet link
 `magnet:?xt=urn:btih:8953fa1cf5ce84907cac959934e2c7abbb7d7a44&dn=Textures%20from%20cc0textures.com%20-%20Part%201&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce`  
   

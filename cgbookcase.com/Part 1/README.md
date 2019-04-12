@@ -1,3 +1,5 @@
+### Size: 5.2 GB
+  
 ### Magnet link
 `magnet:?xt=urn:btih:d71080b1205c67eddc11a9f659710d9bf39dac02&dn=Textures%20from%20cgbookcase.com%20-%20Part%201&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce`  
   
